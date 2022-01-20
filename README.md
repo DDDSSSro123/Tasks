@@ -6,3 +6,5 @@
 [学习经验分享](https://github.com/DDDSSSro123/Tasks/blob/main/%E5%AD%A6%E4%B9%A0%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.md)
 
 [Git教程](https://github.com/DDDSSSro123/Tasks/blob/main/Git%E6%95%99%E7%A8%8B.md)
+
+[阶段6的学习](https://github.com/DDDSSSro123/Tasks/blob/main/%E9%98%B6%E6%AE%B5%E5%85%AD%E7%9A%84%E5%AD%A6%E4%B9%A0.md)
